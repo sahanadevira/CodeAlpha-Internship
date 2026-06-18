@@ -61,5 +61,4 @@ Store high scores in a file or database.
 The Hangman Game is a beginner-friendly Python project that combines entertainment with learning. It serves as an excellent example of how core programming concepts can be used to create an interactive application. The project helps build a strong foundation in Python while encouraging logical thinking and problem-solving skills.
 
 # live demo:
-
-https://github.com/sahanadevira/CodeAlpha-Internship/tree/main
+https://codealpha-internship-xll6pe23cebyb87ebcrc2a.streamlit.app/#word
