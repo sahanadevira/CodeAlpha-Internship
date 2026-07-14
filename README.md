@@ -52,12 +52,12 @@ A command-line implementation of the classic Hangman game where users guess lett
 - Applied problem-solving and logical thinking to real-world tasks
 - Developed interactive command-line applications
 - Gained practical experience with user input processing and decision-making logic
-
+```
 CodeAlpha-Internship/
 ├── Rule-Based-Chatbot/
 ├── Hangman-Game/
 └── README.md
-
+```
 
 This journey help me gain hand-on experience in exploring python programming.
 
