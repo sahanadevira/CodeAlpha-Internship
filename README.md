@@ -8,7 +8,7 @@ This repository contains the mini-projects completed during my CodeAlpha Python 
 
 A console-based chatbot that simulates conversations using predefined rules and decision-making logic.
 
-#Key Concepts
+# Key Concepts
 
 
 - Conditional Statements ("if", "elif", "else")
@@ -22,7 +22,7 @@ A console-based chatbot that simulates conversations using predefined rules and 
 
 A command-line implementation of the classic Hangman game where users guess letters to reveal a hidden word.
 
-#Key Concepts
+# Key Concepts
 
 - Loops ("for", "while")
 - Conditional Logic
@@ -53,12 +53,11 @@ A command-line implementation of the classic Hangman game where users guess lett
 - Developed interactive command-line applications
 - Gained practical experience with user input processing and decision-making logic
 
-# Repository Structure
+CodeAlpha-Internship/
+├── Rule-Based-Chatbot/
+├── Hangman-Game/
+└── README.md
 
-# CodeAlpha-Internship
- -Rule-Based-Chatbot
- -Hangman-Game
- -README.md
 
 This journey help me gain hand-on experience in exploring python programming.
 
