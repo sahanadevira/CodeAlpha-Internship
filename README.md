@@ -1,8 +1,8 @@
-###CodeAlpha Python Programming Internship
+# CodeAlpha Python Programming Internship
 
 This repository contains the mini-projects completed during my CodeAlpha Python Programming Internship. These projects strengthened my understanding of Python programming by applying fundamental concepts to build interactive console-based applications. The internship focused on improving problem-solving skills, logical reasoning, and writing structured codes using python.
 
-#Projects
+# Projects
 
 1. Rule-Based Chatbot
 
@@ -22,7 +22,7 @@ A console-based chatbot that simulates conversations using predefined rules and 
 
 A command-line implementation of the classic Hangman game where users guess letters to reveal a hidden word.
 
-Key Concepts
+#Key Concepts
 
 - Loops ("for", "while")
 - Conditional Logic
@@ -33,7 +33,7 @@ Key Concepts
 - Input Validation
 - Game State Management
 
-Technologies Used
+#Technologies Used
 
 - Python
 - Functions
@@ -46,19 +46,19 @@ Technologies Used
 - Control Flow
 - Algorithmic Problem Solving
 
-Learning Outcomes
+# Learning Outcomes
 
 - Strengthened Python programming fundamentals
 - Applied problem-solving and logical thinking to real-world tasks
 - Developed interactive command-line applications
 - Gained practical experience with user input processing and decision-making logic
 
-#Repository Structure
+# Repository Structure
 
-#CodeAlpha-Internship/
--Rule-Based-Chatbot/
--Hangman-Game/
--README.md
+# CodeAlpha-Internship
+ -Rule-Based-Chatbot
+ -Hangman-Game
+ -README.md
 
 This journey help me gain hand-on experience in exploring python programming.
 
